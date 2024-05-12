@@ -1,5 +1,5 @@
 # Talktok
-- 활용기술 : JAVA, Spring Boot, Thyemleaf, MySQL, JPA, AWS(EC2, RDS), Docker, HTML5, CSS3, JavaScript, jQuery 
+- 활용기술 : JAVA, Spring Boot, Thyemleaf, MySQL, JPA, Intellij, AWS(EC2, RDS), Docker, HTML5, CSS3, JavaScript, jQuery 
 - 개요 : 기존 영어 교육 플랫폼의 강의는 정적인 녹화된 강의에 중점을 두고 있습니다. Talktok은 WebRTC 기술을 활용하여 실시간 회화 교육을 제공하여 기존의 한계를 극복하고 참여자 친화적인 학습 환경을 제공하는 플랫폼입니다.
 - 역할 : 프로젝트 조장, 강의 후기 기능 및 배포를 담당했습니다.
 
